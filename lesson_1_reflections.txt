@@ -1,0 +1,21 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+Mostra de forma rapida e clara as dieferencas entre as duas versoes do mesmo arquivo, facilitando a verificacao de que nada mais do que era esperado foi alterado.
+
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Saber quando e o porque um arquivo foi alterado torna mais facil futuras alteracoes, poupando tempo ao programador no dia a dia.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+Pros: Flexibilidade de escolher quando fazer o commit. Contra: Um commit pode ficar muito pequeno ou muito grande, dificultando a comparacao com versoes anteriores.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+Porque eles sao focados para controle de versao de codigos fonte e nem sempre uma alteracao de arquivo necessita que seja gerada uma nova versao dele para controle, pois a alteracao pode nao ter sido finalizada ainda, por exemplo.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+Git log mostra todas as alteracoes feitas no repositorio enquanto o diff te ajuda a comparar duas versoes de um mesmo arquivo, mostrando o que foi inserido e deletado de uma versao para a outra.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+Tendo todas as alterações anteriores salvas, caso você faça commit de alguma versão que causou algum problema é possível restaurar a versão anterior e comparar o que foi alterado para encontrar aonde está o problema.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+Para controle de versão em todos os meus projetos pessoais ou onde trabalhar.
