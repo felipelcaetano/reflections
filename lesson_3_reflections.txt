@@ -12,3 +12,6 @@ Para que tenhamos conhecimentos de todas as alteracoes anteriores.
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 Somente atraves de redes sociais ou foruns. Cada colaboracao teria a sua propria forma de controle de versoes.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+Quando estamos criando algo novo que nao e crucial para o projeto ou quando estamos trabalhando com diversas pessoas nos mesmos arquivos. Em diferetenes branches o trabalho fica mais complexo, pois possivelmente sera necessario fazer um merge quando as alteracoes farao parte do branch master daquele repositorio. Em um unico branch voce nao tem esse problema. Todas as alteracoes ja estao em um unico branch.
