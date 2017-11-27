@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+Em projetos profissionais, onde e posivel acessar os arquivos de computadores distintos.
