@@ -9,3 +9,6 @@ Branches sao nos de um repositorio, seja ele local ou do GitHub. Clones sao copi
 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 Para que tenhamos conhecimentos de todas as alteracoes anteriores.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+Somente atraves de redes sociais ou foruns. Cada colaboracao teria a sua propria forma de controle de versoes.
