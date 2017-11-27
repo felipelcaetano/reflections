@@ -4,3 +4,19 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 O repositório é onde são armazenados apenas os commits efetuados, enquanto a área de preparação é onde você organiza quais arquivos farão parte do próximo commit a ser efetuado.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Organizando seus arquivos e sempre verificando se as alterações que eram para ser feitas estão na lá.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Quando se quer criar versões alternativas de seus arquivos, como por exemplo testar uma nova funcionalidade, ou qualquer outro tipo de alteração que não seja interessante manter no branch master por enquanto.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Mostrando todos os commits existentes e as suas hierarquias de branches pai.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+Um dos branches passa a ser o principal dos dois e contem as alteracoes de ambos os arquivos.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+O git não consegue analisar se alguma alteração de fato faz sentido ou não e no caso de duas alterações em uma mesma área de um arquivo o Git não sabe qual delas é a correta.
+
