@@ -6,3 +6,6 @@ Voce tem o controle do que deve ser atualizado e em qual dos lados os arquivos e
 
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 Branches sao nos de um repositorio, seja ele local ou do GitHub. Clones sao copias de branches seja de um repositorio local ou do GitHub. Bifurcacoes sao clones dentro do GitHub de outro repositorio, onde normalmente voce nao possui acesso para edicao.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Para que tenhamos conhecimentos de todas as alteracoes anteriores.
